@@ -1,0 +1,15 @@
+body {
+  margin: 0; }
+
+#printContrato {
+  text-align: justify;
+  width: 700px;
+  background: url("/img/bg_contratos.jpg") repeat-y; }
+
+.formFields {
+  width: 150px; }
+
+.formFieldsEdad {
+  width: 50px; }
+
+/*# sourceMappingURL=app.css.map */
